@@ -1,6 +1,13 @@
-# Gateway-Bot
+# Gateway-Bot (SafeGateBot)
+
+![SafeGateBot Banner](https://i.ibb.co/xtQRypjh/x.jpg)
 
 A Telegram bot that manages access to private channels using deep linking, captcha verification, and single-use invite links.
+
+🤖 **Active Bot:** https://t.me/SafeGateBot  
+📦 **Repository:** https://github.com/saikatwtf/SafeGateBot
+
+---
 
 ## Features
 - Deep linking with unique short codes
